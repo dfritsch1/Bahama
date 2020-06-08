@@ -1,4 +1,4 @@
-"labels(n)","valid_until","country_codes","countries","node_id","sourceID","address","name","jurisdiction_description","service_provider","jurisdiction","closed_date","incorporation_date","ibcRUC","type","status","company_type","note"
+labels(n)","valid_until","country_codes","countries","node_id","sourceID","address","name","jurisdiction_description","service_provider","jurisdiction","closed_date","incorporation_date","ibcRUC","type","status","company_type","note"
 ["Entity"]","The Bahamas Leaks data is current through early 2016.","","","20010494","Bahamas Leaks","","ASIA CONSTRUCTION CORPORATION LIMITED","Bahamas","","BAH","","14-AUG-1992","10494B","","","",""
 ["Entity"]","The Bahamas Leaks data is current through early 2016.","","","20010495","Bahamas Leaks","","EURO LOGISTICS LIMITED","Bahamas","","BAH","","14-AUG-1992","10495B","","","",""
 "["Entity"]","The Bahamas Leaks data is current through early 2016.","","","20010496","Bahamas Leaks","","EURO LEISURE LIMITED","Bahamas","","BAH","","14-AUG-1992","10496B","","","",""

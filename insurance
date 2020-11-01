@@ -1,4 +1,4 @@
-Report nr.,Accident Date,Accident address,Car number,Driver,Passenger,Witness name,Represented by lawyer,Doctor Assistance,Car repair
+ID,Accident Date,Accident address,Car number,Driver,Passenger,Witness name,Represented by lawyer,Doctor Assistance,Car repair
 11201,43831,Benkova Potôn 1409 Horná Potôn,BA - 778NX,Jan Novak,,,Robert Liska,,
 11201,43831,Benkova Potôn 1409 Horná Potôn,BL - 110SL,Michal Jakubec,,,,,
 11457,43852,Pribinova 10 Bratislava,SC - 911HU,,Michal Jakubec,Jan Novak,,,
